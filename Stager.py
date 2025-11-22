@@ -1,4 +1,6 @@
 # pyinstaller --onefile --noconsole --icon=NONE Stager.py
+# Stager.py -> Stager.exe -> base64 -> Loader.cpp -> Loader.exe
+
 import imageio
 import numpy as np
 import os
