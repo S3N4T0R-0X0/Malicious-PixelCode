@@ -26,7 +26,8 @@ common platforms such as image or video sharing services. Overall Pixel Code foc
 on transforming digital files into a visual representation that can be recovered using a
 corresponding decoder.
 
-<img width="1366" height="741" alt="Screenshot From 2025-11-22 07-27-26" src="https://github.com/user-attachments/assets/e9cf8415-1b5b-48ba-9b05-657aa160ff5a" />
+![New PixelCode Attack Smuggles Malware via Image Pixel Encoding (1)](https://github.com/user-attachments/assets/97e497f1-e49a-4a7a-b6f1-2fd96733ace9)
+
 
 Malicious actors could potentially misuse Pixel Code by encoding harmful binaries or scripts
 into visual data such as images or video frames. By transforming malware into pixel based
